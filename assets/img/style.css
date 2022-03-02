@@ -1,0 +1,290 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-image: url(clients_logo_120px_1.png);
+    border-bottom: 2px solid #fff;
+    color: #fff;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+nav ul li{
+    padding-left: 200px;
+}
+ul img{
+    width: 300px;
+}
+.haut{
+    background-image: url(clients_logo_120px_1.png); 
+    color: #fff;
+    padding: 30px 20px 0px 20px;
+    text-align: center;
+    
+
+    
+}
+
+.PARTIE1 h1{
+    font-family: Open Sans, Arial, sans-serif;
+    padding: 25px;
+
+}
+
+    
+.PARTIE1 h2{
+    color:#3d9f96 ;
+    padding: 20px;
+    font-size: 15px;
+    padding: 15px;
+    
+    
+}
+
+.PARTIE1 h3{
+    padding: 15px;
+    font-size: 16px;
+}
+
+ .PARTIE1a button{  
+     background-color: #3d9f96;
+     padding: 10px 40px;
+     border-radius: 10px;
+     font-size:10px ;
+     color: #fff;
+     margin: 20px;
+    
+     
+     }
+
+
+ .PARTIE1 img{
+     display: flex;
+     justify-content: center;
+    
+
+    }
+     
+ 
+
+ .PARTIE2 {  
+    background-color:#f9f9f9;
+      padding: 30px 0px 65px;
+    
+}
+.PARTIE2a{
+    
+    display: flex;
+    justify-content: center;
+
+}
+.PARTIE2 img{
+    padding:20px ;
+    
+
+
+}
+.PARTIE2b{
+    color: #3d9f96;
+    text-align: center;
+    
+}
+
+
+.PARTIE3{
+     background-color:#fff;
+     padding: 40px;
+}
+.PARTIE3a {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.PARTIE3b {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.PARTIE4{
+background-image: url(map_bg.png);
+background-repeat: no-repeat;
+background-position: 400px 0px;
+display: flex;
+justify-content: space-evenly;
+padding: 100px;
+
+}
+.PARTIE4a img{
+    width: 20px;
+    
+    
+
+}
+.PARTIE4b img{
+    position: relative;
+    top: 130px;
+    left: 25px;
+}
+.PARTIE4b{
+    background-image: url(image_190px_1.png);
+    background-repeat: no-repeat;
+    background-position: 0px -12px;
+    width: 200px;
+    height: 300px;
+}
+.PARTIE4a p{
+    padding: 15px;
+}
+.PARTIE4c img{
+    width: 20px;
+}
+.PARTIE4c p{
+    padding: 15px;
+}
+.PARTIE5{
+    background-image: url(clients_logo_120px_2.png);
+}
+
+.PARTIE5 p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    color:#fff;
+    
+}
+.PARTIE5 h3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #3d9f96;
+    padding: 0px 0px 50px;
+}
+.PARTIE5a{
+    display: flex;
+    justify-content: center;
+     padding: 20px;
+}
+
+.PARTIE6 {
+    background-color: #f9f9f9;
+    padding: 50px;
+}
+.PARTIE6 h2{
+    padding: 50px;
+}
+
+.PARTIE6a{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.PARTIE7{
+    margin: 20px 30px;
+}
+
+
+.PARTIE7aa{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.PARTIE7bb{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 100px;
+    
+
+}
+.PARTIE7a{
+    background-image:url(image_300px_1.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 300px;
+}
+
+    
+.PARTIE7b h4{
+     padding: 20px 0px 20px;
+     font-family: Open Sans, Arial, sans-serif ;
+     font-size: 15px;
+}
+.PARTIE7b button{
+    padding: 8px 30px;
+    background-color: #3d9f96;
+    border-radius: 10px;
+    color: #f9f9f9;
+    font-size: 10px;
+    margin: 20px 0px 20px;
+    
+  }
+  .PARTIE7c h4{ 
+      padding: 20px 0px 20px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .PARTIE7c button{
+      padding: 8px 30px;
+      background-color: #3d9f96;
+      border-radius: 10px;
+      color: #f9f9f9;
+      font-size: 10px;
+      margin:  20px 0px 20px;
+      
+  }
+  .PARTIE8{
+      display: flex;
+      justify-content: space-between;
+      padding: 0px 30px 20px ;
+      background-color: #f9f9f9;
+  }
+.PARTIE8a img{
+    width: 200px;
+    margin: 20px 20px 10px 100px;
+}
+.PARTIE8a h4{ 
+    margin: 20px 20px 20px 100px;
+    font-size: 15px; }
+
+
+
+    
+.PARTIE8b h2{
+    margin:  30px 0px 30px;
+}
+.PARTIE8c h2{
+    margin:  30px 0px 25px;
+}
+footer{
+    padding: 10px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+footer img{
+    padding: 20px;
+}
+footer h4{
+    padding: 20px;
+}
+
+@media (max-width:700px){
+    
+}
+
+
+
+
+
+      
+
+
+
+
